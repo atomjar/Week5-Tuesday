@@ -1,0 +1,22 @@
+header {
+  background-image: url(http://www.visionorlando.org/main/wp-content/uploads/2013/08/vo-wide-banner.jpg);
+  height: 200px;
+  background-size: cover;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  border-bottom: 5px solid black;
+}
+
+h1 {
+  margin-left: 300px;
+  margin-top: .3em;
+  color: white;
+}
+
+p {
+  margin-top: 280px;
+  font-size: 5em;
+  text-align: center;
+}
